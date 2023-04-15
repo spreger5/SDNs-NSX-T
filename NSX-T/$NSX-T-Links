@@ -1,0 +1,70 @@
+
+NSX/NSX-T: Wichtig: Ab Version 4.0 wird VMware NSX-T Data Center als VMware NSX bezeichnet.
+==========
+
+Produkt-Dokumentation: Links zu weiterfuehrender Doku und zusaetzlichen Ressourcen. !!! Hier startetn !!!!
+----------------------
+
+   https://docs.vmware.com/de/VMware-NSX/index.html      # Sprache ggf. auf der Website umstellen
+   https://docs.vmware.com/en/VMware-NSX/index.html      # Sprache ggf. auf der Website umstellen
+
+  (alter Link, vor Namensaenderung von NSX-T auf NSX ab v4)
+  (https://docs.vmware.com/en/VMware-NSX-T-Data-Center/index.html)
+
+Schluessel-Konzepte:
+--------------------
+
+   Recht genaue Beschreibung der Schluesselkonzepte. Hilfreich, da sie ziemlich viele Details beschreibt. Mit dieser
+   Info kann man viele Begriffe konkretisieren, wie z.B. dass ein T0-Router fuer die North-South-Connectivity
+   zum physischen Netzwerk (meist zur Firewall) zustaendig ist etc.
+
+   Einstiegspunkt:
+
+      https://docs.vmware.com/en/VMware-NSX/4.0/installation/GUID-A1BBC650-CCE3-4AC3-A774-92B195183492.html
+      https://docs.vmware.com/en/VMware-NSX-T-Data-Center/3.2/installation/GUID-A1BBC650-CCE3-4AC3-A774-92B195183492.html
+
+   NSX-T-Manager: Policy-Mode vs. Manager-Mode, unterschiedliche Namen f. die Objekte (z.B. Segment :: Logical Switch,
+                  Tier-0-Gateway :: Tier-0-Router), ...
+
+      https://docs.vmware.com/en/VMware-NSX/4.0/installation/GUID-BB26CDC8-2A90-4C7E-9331-643D13FEEC4A.html
+
+   A story about NSX-T: Beschreibt recht anschaulich die NSX-T-Komponenten (Segmente, Router, Host Transport Nodes
+                        Host Transport Zones, VTEPs etc.)
+
+      https://faun.pub/a-story-about-nsx-t-e8ac9c85f706
+
+
+Uebersicht der Basis-Installation von NSX in vSphere, speziell das Feature VDS (vSphere Distributed Switch):
+---------------------------------
+
+   https://docs.vmware.com/en/VMware-NSX/4.0/quick_start/GUID-93FF7092-EC5D-45FE-B707-D678A9CA2F69.html
+   https://docs.vmware.com/en/VMware-NSX-T-Data-Center/3.2/quick_start/GUID-93FF7092-EC5D-45FE-B707-D678A9CA2F69.html
+
+Matt Adam: https://mattadam.com/
+----------
+
+   AKO - L7 Ingress on vSphere with Kubernetes (WCP - TKGs) with NSX-T
+
+      https://mattadam.com/2022/07/19/ako-l7-ingress-on-vsphere-with-kubernetes-wcp-tkgs-with-nsx-t/
+
+
+NSX-T API Documentation:
+------------------------
+
+
+   NSX-T Data Center REST API  (v4.0.0.) (Achtung: Riesig, Ladevorgang dauert etwas!)
+
+      https://developer.vmware.com/apis/1295/nsx-t
+
+   NSX-T API: Embedded Documentation and Postman Collection
+
+      https://cloudmaniac.net/nsx-t-api-embedded-documentation-and-postman-collection/
+
+   Getting Started with the NSX-T API and Postman
+
+      https://rutgerblom.com/2019/06/16/getting-started-with-the-nsx-t-api-and-postman/
+
+   NSX-T API with POSTMAN
+
+      https://burakyucal.medium.com/nsx-t-api-with-postman-c0452b426807
+
