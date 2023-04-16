@@ -55,7 +55,6 @@ Matt Adam: https://mattadam.com/
 NSX-T API Documentation:
 ------------------------
 
-
    NSX-T Data Center REST API  (v4.0.0.) (Achtung: Riesig, Ladevorgang dauert etwas!)
 
       https://developer.vmware.com/apis/1295/nsx-t
@@ -71,4 +70,38 @@ NSX-T API Documentation:
    NSX-T API with POSTMAN
 
       https://burakyucal.medium.com/nsx-t-api-with-postman-c0452b426807
+
+Sonstiges (Blogs etc.):
+-----------------------
+
+   Jeffrey Kusters:
+
+      https://www.jeffreykusters.nl/
+
+   Erik Bussink: Solution Architect
+
+      https://www.bussink.ch/
+      https://www.youtube.com/watch?v=08LeF8ceMzk&t=8s          NSX-T Data Center Architecture and Benefits
+
+   Jody Clark: NSX Systems Engineer
+
+      https://www.youtube.com/watch?v=WO6X9zDox0k               NSX 101
+
+   Geoff Wilmington: Senior Technical Product Manager, VMware
+
+      https://www.youtube.com/watch?v=T2aPudOcLNE               VMware NSX for Security
+
+   NRDY Tech: Troubleshooting MSX-T
+
+      https://www.techbytes.io/
+      https://www.youtube.com/c/NRDYTech
+      https://www.youtube.com/@NRDYTech/videos
+
+   VMware User Group (VMUG):
+
+      https://www.vmug.com/webcasts/series/nsx-webcast-series/
+
+   Labs, Spielwiesen etc.:
+
+      https://labs.hol.vmware.com/
 
