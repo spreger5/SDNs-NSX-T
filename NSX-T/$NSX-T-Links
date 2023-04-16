@@ -28,11 +28,15 @@ Schluessel-Konzepte:
 
       https://docs.vmware.com/en/VMware-NSX/4.0/installation/GUID-BB26CDC8-2A90-4C7E-9331-643D13FEEC4A.html
 
+   NSX-T Data Center concepts: Gutes Glossar der diversen Abkuerzungen etc.
+
+      https://learnworkit.com/
+      https://learnworkit.com/2021/11/20/2-nsx-t-data-center-concepts/
+
    A story about NSX-T: Beschreibt recht anschaulich die NSX-T-Komponenten (Segmente, Router, Host Transport Nodes
                         Host Transport Zones, VTEPs etc.)
 
       https://faun.pub/a-story-about-nsx-t-e8ac9c85f706
-
 
 Uebersicht der Basis-Installation von NSX in vSphere, speziell das Feature VDS (vSphere Distributed Switch):
 ---------------------------------
